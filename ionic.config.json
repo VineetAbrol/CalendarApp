@@ -1,0 +1,8 @@
+{
+  "name": "ionCalender",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
